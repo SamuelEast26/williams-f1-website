@@ -1,0 +1,48 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 20px;
+	background-image: url("TeamBackground.webp");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+.header{
+	width: 500px;
+	border: 2px solid #ffd700;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 20px;
+	background-color: blue;
+	padding: 15px;
+	border-radius: 8px;
+}
+
+.text{
+	width: 500px;
+	border: 2px solid #ffd700;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 20px;
+	background-color: blue;
+	padding: 15px;
+	border-radius: 8px;
+}
+
+
+.history{
+	width: 500px;
+	border: 2px solid #ffd700;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: 20px;
+	background-color: blue;
+	padding: 15px;
+	border-radius: 8px;
+}
